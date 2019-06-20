@@ -14,6 +14,7 @@ public class executableMain {
 			cmex.printStackTrace();
 		}
 		concModException.makeChanesWhileIterating();
+		concModException.removeElementsWithoutException();
 		
 	}
 

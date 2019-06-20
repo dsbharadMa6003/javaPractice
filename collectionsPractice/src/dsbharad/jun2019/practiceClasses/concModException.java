@@ -41,7 +41,7 @@ public class concModException {
 			System.out.println("element is ... " + failSafeIterator.next());
 		}
 	}
-	
+
 	public static void removeElementsWithoutException() {
 		System.out.println("<><><><><><><><><><><><><><><><><><><><><><><><>");
 		ArrayList myCol = new ArrayList();
@@ -49,18 +49,18 @@ public class concModException {
 		myCol.add(1);
 		myCol.add(true);
 		myCol.add(25);
-		
+
 		Iterator failFastIterator = myCol.iterator();
-		while(failFastIterator.hasNext()) {
+		while (failFastIterator.hasNext()) {
 			Object item = failFastIterator.next();
-			System.out.println("iterating over..."+item);
-			if(item.equals(true)) {
+			System.out.println("iterating over..." + item);
+			if (item.equals(true)) {
 				failFastIterator.remove();
 			}
 		}
 		failFastIterator = myCol.iterator();
-		while(failFastIterator.hasNext()) {
-			System.out.println("item is "+failFastIterator.next());
+		while (failFastIterator.hasNext()) {
+			System.out.println("item is " + failFastIterator.next());
 		}
 	}
 }

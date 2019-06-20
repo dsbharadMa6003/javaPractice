@@ -1,6 +1,36 @@
-
+Source#1
 Top 25 Java Collection Framework Interview Questions Answers for Freshers and Experienced Programmers
 
 https://javarevisited.blogspot.com/2011/11/collection-interview-questions-answers.html
 
-For question # 3, we have practices in concModException class of this project.
+For question#1, here is more info
+	https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html
+
+For question # 3, 
+		we have practices in concModException class of this project,
+		more info in https://javarevisited.blogspot.com/2012/02/fail-safe-vs-fail-fast-iterator-in-java.html.
+
+
+
+
+What is Iterator and ListIterator in Java Program with Example - Tutorial Code Sample
+
+https://javarevisited.blogspot.com/2011/10/java-iterator-tutorial-example-list.html
+
+
+Source#2
+
+34 Java Collections Interview Questions
+https://www.javatpoint.com/java-collections-interview-questions
+
+Source#3
+Top 40 Java collection interview questions and answers
+https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/#resources
+
+Source#4
+Java Collections Interview Questions
+https://www.journaldev.com/1330/java-collections-interview-questions-and-answers
+
+Source#5 (Baeldung)
+Java Collections Interview Questions
+https://www.baeldung.com/java-collections-interview-questions
